@@ -1,4 +1,4 @@
-Item Name, Purpose, Link, Cost (USD), Note, Quantity
-PCB, To control the motor, and get to right altitude, Online Quotation (Can't share), 160.66, 2 boards included due to MOQ (Minimum Order Quantity), 1
-GPS Module, For location and velocity, https://www.amazon.com/YELUFT-GY-NEO6MV2-Control-Support-Raspberry/dp/B0F2DKWJ4J, 11.00, , 1
-3× 3-pin Headers, For manual soldering to save PCB assembly costs, Online Quotation (Can't share), 10.00, Cheaper than having JLCPCB wave-solder them, 1
+Item Name,Purpose,Link,Cost (USD),Note,Quantity
+"PCB","To control the motor and get to right altitude","Online Quotation (Can't share)",160.66,"2 boards included due to MOQ (Minimum Order Quantity)",1
+"GPS Module","For location and velocity","https://www.amazon.com/YELUFT-GY-NEO6MV2-Control-Support-Raspberry/dp/B0F2DKWJ4J",11.00,"",1
+"3× 3-pin Headers","For manual soldering to save PCB assembly costs","Online Quotation (Can't share)",10.00,"Cheaper than having JLCPCB wave-solder them",1
